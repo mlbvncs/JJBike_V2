@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37216.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "JJBikeCube", "JJBikeCube\JJBikeCube.dwproj", "{CAAADDDE-E168-E8E7-6C61-C98FB82A8F74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAAADDDE-E168-E8E7-6C61-C98FB82A8F74}.Development|Default.ActiveCfg = Development
+		{CAAADDDE-E168-E8E7-6C61-C98FB82A8F74}.Development|Default.Build.0 = Development
+		{CAAADDDE-E168-E8E7-6C61-C98FB82A8F74}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42CADF93-2738-43D8-B899-934EFEE21A29}
+	EndGlobalSection
+EndGlobal

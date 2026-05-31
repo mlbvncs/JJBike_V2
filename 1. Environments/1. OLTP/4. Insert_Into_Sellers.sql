@@ -1,0 +1,10 @@
+INSERT INTO Relational..sellers (seller_name) VALUES ('Armando Lago');
+INSERT INTO Relational..sellers (seller_name) VALUES ('Capitolino Bahía');
+INSERT INTO Relational..sellers (seller_name) VALUES ('Daniel Pirajá');
+INSERT INTO Relational..sellers (seller_name) VALUES ('Godo Capiperibe');
+INSERT INTO Relational..sellers (seller_name) VALUES ('Hélio Liberato');
+INSERT INTO Relational..sellers (seller_name) VALUES ('Iberê Lacerda');
+INSERT INTO Relational..sellers (seller_name) VALUES ('Jéssica Castelão');
+INSERT INTO Relational..sellers (seller_name) VALUES ('Napoleão Méndez');
+INSERT INTO Relational..sellers (seller_name) VALUES ('Simão Rivero');
+INSERT INTO Relational..sellers (seller_name) VALUES ('Tobias Furtado');
