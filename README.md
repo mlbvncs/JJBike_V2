@@ -1,4 +1,4 @@
-# JJBike SQL Server - Business Intelligence Analysis
+# JJBike_V2 - Business Intelligence Analysis
 
 Comprehensive Business Intelligence solution using SQL Server and Power BI for the fictional company JJBike, demonstrating complete data warehouse development from OLTP to OLAP.
 
@@ -6,7 +6,7 @@ Comprehensive Business Intelligence solution using SQL Server and Power BI for t
 
 ## 🎯 Quick Overview
 
-**JJBike SQL Server** is a BI project that demonstrates:
+**JJBike_V2** is a BI project that demonstrates:
 
 - **Data Warehouse Design:** Star Schema with dimensional modeling
 - **OLTP Environment:** Transactional database (SQL Server)
@@ -77,8 +77,8 @@ Comprehensive Business Intelligence solution using SQL Server and Power BI for t
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/mlbvncs/JJBike_SQL_Server.git
-cd JJBike_SQL_Server
+git clone https://github.com/mlbvncs/JJBike_V2.git
+cd JJBike_V2
 ```
 
 ### 2. Create Database
@@ -164,7 +164,7 @@ In SSMS, execute scripts in order from `1. Environments/`:
 ## 📂 Project Structure
 
 ```
-JJBike_SQL_Server/
+JJBike_V2/
 ├── 1. Environments/
 │   ├── 1. OLTP/              # Relational schema scripts
 │   └── 2. OLAP/              # Dimensional schema scripts
@@ -188,7 +188,7 @@ JJBike_SQL_Server/
 ✅ **Time Dimension** - January 1970 to December 2030  
 ✅ **KPI Tracking** - Monthly revenue vs. targets  
 ✅ **Power BI Integration** - Interactive dashboards and reports  
-✅ **SSAS Cube** - Multidimensional analysis with hierarchies  
+✅ **SSAS Cube** - Multidimensional analysis with hierarchies
 
 ---
 
@@ -263,7 +263,7 @@ With this data warehouse, answer questions like:
 ✅ ETL design and optimization  
 ✅ Power BI dashboard development  
 ✅ SSAS cube design and deployment  
-✅ Business intelligence best practices  
+✅ Business intelligence best practices
 
 ---
 
@@ -304,7 +304,7 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 ---
 
-**Last Updated:** June 10, 2026  
+**Last Updated:** June 24, 2026  
 **Status:** Complete  
 **Type:** Educational Portfolio
 
